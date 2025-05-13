@@ -2,16 +2,72 @@
   {
     "id": 1,
     "tipo": "texto",
-    "contenido": "Bienvenido a la página"
+    "contenido": "# Bienvenido a la página"
   },
   {
     "id": 2,
     "tipo": "imagen",
-    "contenido": "https://urgenciesveterinaries.com/wp-content/uploads/2023/09/survet-gato-caida-pelo-01.jpeg"
+    "contenido": "https://urgenciesveterinaries.com/wp-content/uploads/2023/09/survet-gato-caida-pelo-01.jpeg",
+    "alt": "Gato con caída de pelo"
   },
   {
     "id": 3,
     "tipo": "texto",
-    "contenido": "Transformamos nuestras metas  en logros. **Enfócate** y _actúa_ con claridad usando sistemas."
+    "contenido": "Transformamos nuestras metas en logros. **Enfócate** y _actúa_ con claridad usando sistemas. 🙂"
+  },
+  {
+    "id": 4,
+    "tipo": "texto",
+    "contenido": "| Producto       | Precio | Stock |\n|----------------|--------|--------|\n| Galletas       | $1.50  | 25     |\n| Jugo de naranja| $2.00  | 10     |\n| Pan integral   | $1.80  | 15     |"
+  },
+  {
+    "id": 5,
+    "tipo": "texto",
+    "contenido": "## Subtítulo Importante\nEste es un subtítulo con contenido adicional debajo."
+  },
+  {
+    "id": 6,
+    "tipo": "texto",
+    "contenido": "### Tercer Nivel\nUn encabezado de tercer nivel para secciones menores."
+  },
+  {
+    "id": 7,
+    "tipo": "texto",
+    "contenido": "- Primer ítem\n- Segundo ítem\n- Tercer ítem"
+  },
+  {
+    "id": 8,
+    "tipo": "texto",
+    "contenido": "[Visita nuestro sitio](https://example.com)"
+  },
+  {
+    "id": 9,
+    "tipo": "texto",
+    "contenido": "> Este es un blockquote que resalta una idea clave."
+  },
+  {
+    "id": 10,
+    "tipo": "texto",
+    "contenido": "Aquí tienes un fragmento de código inline como `console.log('Hola mundo')`."
+  },
+  {
+    "id": 11,
+    "tipo": "texto",
+    "contenido": "```\nfunction saludar() {\n  console.log('Hola mundo');\n}\n```"
+  },
+  {
+    "id": 12,
+    "tipo": "texto",
+    "contenido": "**Texto en negrita** y _texto en cursiva_ combinados."
+  },
+  {
+    "id": 13,
+    "tipo": "texto",
+    "contenido": "---"
+  },
+  {
+    "id": 14,
+    "tipo": "texto",
+    "contenido": "- [x] Tarea completada\n- [ ] Tarea pendiente"
   }
 ]

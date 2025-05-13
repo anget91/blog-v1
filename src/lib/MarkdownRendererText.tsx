@@ -16,16 +16,16 @@ const MarkdownRendererText: React.FC<Props> = ({ contenido }) => {
           return <p className="my-2" {...props} />;
         },
         h1({ node, ...props }) {
-          return <h1 className="text-2xl font-bold my-4" {...props} />;
+          return <h1 className="text-h1" {...props} />;
         },
         h2({ node, ...props }) {
-          return <h2 className="text-xl font-semibold my-3" {...props} />;
+          return <h2 className="text-h2" {...props} />;
         },
         h3({ node, ...props }) {
-          return <h3 className="text-lg font-medium my-2" {...props} />;
+          return <h3 className="text-h3" {...props} />;
         },
         a({ node, ...props }) {
-          return <a className="text-blue-500 underline" {...props} />;
+          return <a className="text-link " target='_blank' {...props} />;
         },
         li({ node, ...props }) {
           return <li className="ml-4 list-disc" {...props} />;
