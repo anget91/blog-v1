@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "tipo": "texto",
+    "contenido": "Bienvenido a la página"
+  },
+  {
+    "id": 2,
+    "tipo": "imagen",
+    "contenido": "https://urgenciesveterinaries.com/wp-content/uploads/2023/09/survet-gato-caida-pelo-01.jpeg"
+  },
+  {
+    "id": 3,
+    "tipo": "texto",
+    "contenido": "Transformamos nuestras metas  en logros. **Enfócate** y _actúa_ con claridad usando sistemas."
+  }
+]
